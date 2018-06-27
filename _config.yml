@@ -26,7 +26,7 @@ github_username:  N/A for now
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
