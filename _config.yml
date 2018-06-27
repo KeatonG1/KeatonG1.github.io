@@ -26,7 +26,6 @@ github_username:  N/A for now
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: Minimal
 =======
 theme: jekyll-theme-minimal
