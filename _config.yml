@@ -27,6 +27,10 @@ github_username:  N/A for now
 # Build settings
 markdown: kramdown
 theme: minima
+<<<<<<< HEAD
+=======
+>>>>>>> 0dee3267b0612e5b9aecfc99c550c0c7dafde3ef
+>>>>>>> 50fec0907b674f55c863173d699821dfd31dfbc2
 plugins:
   - jekyll-feed
 
